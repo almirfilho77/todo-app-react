@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `npm install`
+
+For now I'll keep the node_modules folder in case I cannot run "npm install" in some network, but later (when node modules is not here), after clonning this repository you can install the dependencies before the first run with "npm install" command.
+
 In the project directory, you can run:
 
 ### `npm start`
